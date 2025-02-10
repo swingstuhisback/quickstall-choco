@@ -5,7 +5,7 @@ Make sure the following are installed:
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 - [Chocolatey](https://chocolatey.org/install)
 
-(p.s, winget should be automatically installed alongside your Windows install; if it fails, I don't really know...)
+(p.s, winget should be automatically installed alongside your Windows install; if it fails, please download the .msixbundle installer from the [winget-cli](https://github.com/microsoft/winget-cli/releases) repo.)
 
 ## Instructions
 
@@ -40,7 +40,10 @@ Make sure the following are installed:
 
 3. **Save**
 
-   When you're done, save the text file and run the PowerShell script.
+   When you're done, save the text file and run the PowerShell script via
+   ```
+   powershell -c "./install-choco.ps1"
+   ```
 
 4. **???** (optional)
 
