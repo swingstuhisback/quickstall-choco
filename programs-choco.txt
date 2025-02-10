@@ -1,0 +1,6 @@
+# Find programs here: https://community.chocolatey.org/packages/
+
+# Misc
+cheatengine
+equalizerapo
+vcredist140
