@@ -1,0 +1,54 @@
+# Web browsers
+Ablaze.Floorp
+Google.Chrome
+
+# Communication
+Discord.Discord
+Telegram.TelegramDesktop
+Rakuten.Viber
+Vendicated.Vencord
+
+# Games, launchers
+Valve.Steam
+EpicGames.EpicGamesLauncher
+Mojang.MinecraftLauncher
+Modrinth.ModrinthApp
+Roblox.Roblox
+pizzaboxer.Bloxstrap
+
+# Misc
+Gyan.FFmpeg
+TenacityTeam.Tenacity
+7zip.7zip
+RARLab.WinRar
+Microsoft.VisualStudioCode
+Microsoft.VisualStudio.2022.Community
+Notepad++.Notepad++
+RevoUninstaller.RevoUninstaller
+RustDesk.RustDesk
+WinDirStat.WinDirStat
+Apple.Bonjour
+Apple.iCloud
+MHNexus.HxD
+Rufus.Rufus
+Neovim.Neovim
+PuTTY.PuTTY
+Microsoft.WSL
+cURL.cURL
+Ryochan7.DS4Windows
+
+# VPNs, security
+NordSecurity.NordVPN
+IPVanish.IPVanish
+
+# Languages
+OpenJS.NodeJS
+Python.Python.3.12
+
+# Media
+OBSProject.OBSStudio
+VideoLAN.VLC
+dotPDN.PaintDotNet
+qBittorrent.qBittorrent
+ByteDance.CapCut
+dsymbol.yt-dlp-gui
