@@ -19,14 +19,6 @@ Make sure the following are installed:
 
    To search for programs on Chocolatey, go to the [Chocolatey Packages page](https://community.chocolatey.org/packages/).
 
-   If you're too lazy to use the CLI version of winget to search for packages, go to [winstall.app](https://winstall.app/apps).
-
-   Once you found your winget package, it should look something like
-   ```
-   "winget install --id=Ablaze.Floorp  -e".
-   ```
-   We only need what's after "--id=" (i.e Ablaze.Floorp).
-
    **Or, for winget**
 
    Run **Command Prompt** or **PowerShell** as **administrator** and type:
@@ -34,28 +26,34 @@ Make sure the following are installed:
    ```
    winget search {application name, i.e firefox}
    ```
-   
+
+   Once you found your winget package, it should look something like
+   ```
+   "winget install --id=Ablaze.Floorp  -e".
+   ```
+   We only need what's after "--id=" (i.e Ablaze.Floorp).
+
    Once you've found your winget and chocolatey programs, type them into **programs.txt** and **programs-choco.txt** respectively on a new line.
    I've provided my personal program list, you can base your's off of that.
 
-3. **Save**
+2. **Save**
 
-   When you're done, save the text file and run the PowerShell script via
+   When you're done, save the text files and run the PowerShell script via
    ```
    powershell -c "./install-choco.ps1"
    ```
 
-4. **???** (optional)
+3. **???** (optional)
 
     ???
 
-5. **Profit**
+4. **Profit**
 
     Congratulations, your programs are installed. Enjoy.
 
 ## Credits
 
-- [Snipcola](https://github.com/snipcola), for the readme template
+- [Snipcola](https://github.com/snipcola), for the readme template & huge help
 - [Chocolatey Software](https://chocolatey.org/), for choco (obviously)
 - [Microsoft](https://microsoft.com/), for winget alongside being so kind as to include Chocolatey in winget
 - [Winstall team](https://winstall.app/), for the winstall site
