@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is currently being worked on due to migrating between a version which was less effective. See [quickstall](https://github.com/swingstuhisback/quickstall)
+
 ## Prerequisites
 
 Make sure the following are installed:
