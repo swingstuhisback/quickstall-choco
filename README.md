@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repository is currently being worked on due to migrating between a version which was less effective. See [quickstall](https://github.com/swingstuhisback/quickstall)
+> If you are looking for [quickstall](https://github.com/swingstuhisback/quickstall), you're in the right place.
 
 ## Prerequisites
 
@@ -22,21 +22,21 @@ Make sure the following are installed:
 
    To search for programs on Chocolatey, go to the [Chocolatey Packages page](https://community.chocolatey.org/packages/).
 
-   **Or, for winget**
+   **For winget:**
 
    Run **Command Prompt** or **PowerShell** as **administrator** and type:
 
    ```
-   winget search {application name, i.e firefox}
+   winget search {application name, i.e: firefox}
    ```
 
    Once you found your winget package, it should look something like
    ```
    "winget install --id=Ablaze.Floorp  -e".
    ```
-   We only need what's after "--id=" (i.e Ablaze.Floorp).
+   We only need what's after "--id=" (i.e: Ablaze.Floorp).
 
-   Once you've found your winget and chocolatey programs, type them into **programs.txt** and **programs-choco.txt** respectively on a new line.
+   After finishing searching for your winget and chocolatey programs, type them into **programs.txt** and **programs-choco.txt** respectively on a new line.
    I've provided my personal program list, you can base your's off of that.
 
 2. **Save**
@@ -56,8 +56,7 @@ Make sure the following are installed:
 
 ## Credits
 
-- [Snipcola](https://github.com/snipcola), for the readme template & huge help
-- [Chocolatey Software](https://chocolatey.org/), for choco (obviously)
+- [Snipcola](https://github.com/snipcola), for the .readme template & huge help
+- [Chocolatey Software](https://chocolatey.org/), for Choco
 - [Microsoft](https://microsoft.com/), for winget alongside being so kind as to include Chocolatey in winget
 - [Winstall team](https://winstall.app/), for the winstall site
-- [Myself (the ego is crazy)](https://github.com/swingstuh/quickstall), for quickstall
