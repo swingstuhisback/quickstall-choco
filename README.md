@@ -1,6 +1,9 @@
 > [!NOTE]
 > If you are looking for [quickstall](https://github.com/swingstuhisback/quickstall), you're in the right place.
 
+![quickstall-banner](https://github.com/user-attachments/assets/1d5d72bc-7ef7-4f62-9bfe-042fc3cac1b6)
+
+
 ## Prerequisites
 
 Make sure the following are installed:
